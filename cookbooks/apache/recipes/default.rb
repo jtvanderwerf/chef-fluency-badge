@@ -6,7 +6,7 @@
 #
 
 package 'apache2' do
-	package_name 'http'
+	package_name 'httpd'
 	action :install
 end
 
